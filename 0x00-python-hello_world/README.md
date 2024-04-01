@@ -9,3 +9,7 @@ the python file name is saved in the environment variable $PYFILE.
 
 This project involves writing a shell script in a file 1-run_inline that runs python script, whereby
 the python code is saved in the environment variable $PYCODE.
+
+##Hello,print
+
+This project involves writing a shell script in a file 2-print.py that prints "Programming is like building a multilingual puzzle" by using the function print.
