@@ -29,3 +29,11 @@ This project involves writing a file 5-print_string.py that prints 3 times strin
 ##Play with strings
 
 This project involves writing a file 6-concat.py that prints Welcome to Holberton School! by concatinating two variables str1 and str2
+
+##Copy-Cut-Paste
+
+This project involves writing a python file 7-edges.py that prints three different parts of the Holberton word
+
+##Create a new sentence
+
+This project involves writing a python file 8-concat_edges.py that derives the sentence object-oriented programming with Python from a long sentence
