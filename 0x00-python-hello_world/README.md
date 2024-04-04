@@ -37,3 +37,7 @@ This project involves writing a python file 7-edges.py that prints three differe
 ##Create a new sentence
 
 This project involves writing a python file 8-concat_edges.py that derives the sentence object-oriented programming with Python from a long sentence
+
+##Easter Egg
+
+This project invoves writing a python file 9-easter_egg.py that prints "The Zen of Python",by TimPeters
